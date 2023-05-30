@@ -12,3 +12,5 @@
 6) I was not able to download any dataset from the OpenAQ database due to some unknown reason. I have attached an image below showing the same. I tried searching the data for different countries, different time periods but nothing worked. and I could not find a similar dataset anywhere on the ineternet as well.
 
 ![dataset unavailable](https://github.com/jiyasahni4/ML-tasks/assets/106904470/182d4f4b-ad67-4942-a0da-3a3ca53bd822)
+
+7) The PDF file "equations overleaf" contains all the equations that i have used in some of the tasks. These equations have been written on overleaf
