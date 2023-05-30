@@ -1,7 +1,7 @@
 # ML-tasks
 1) Task 1.ipynb contains the code for the task 1 
 
-2) Task 2 brief explanation is a word file which contains the basic definitions of entropy, cross entropy, mutual information, conditional entropy and KL divergence
+2) Task 2 brief explanation is a word file which contains the basic definitions of entropy, cross entropy, mutual information, conditional entropy and KL divergence. The word files can be accessed by clicking on "view raw" after opening the respective files.
 
 3) Task 2 code.ipynb contains the examples of all teh above mentioned terms
 
